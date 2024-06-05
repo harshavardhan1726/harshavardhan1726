@@ -10,5 +10,5 @@ harshavardhan1726/harshavardhan1726 is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=Hi%20Everyone!&fontSize=90&fontColor=31363F&stroke=F6F1F1" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20Everyone!&fontSize=90&fontColor=31363F&stroke=F6F1F1" />
 
