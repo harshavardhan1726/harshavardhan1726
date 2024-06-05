@@ -10,6 +10,6 @@ harshavardhan1726/harshavardhan1726 is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 
-<div style="max-width: fit-content, margin-inline: auto;">
-    <h3 style="font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">Hi There, I'm Harsha Vardhan</h3>
+<div>
+    <h3 style="font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">Hi There, I'm Harsha Vardhan {"a":5,"h":"www.canva.com","c":"DAGHT5ksZOI","i":"D-HNz1G-6JXs7SkxXI-caA","b":1717629925692,"j":[{}],"A?":"B","A":[{"A":-5.434782608695684,"B":61.0015527950311,"D":407.5,"C":500,"A?":"I","a":{"A":false,"I":{"A":"VAETq57pzZY","B":{"D":407.5,"C":500},"F":"B","I":true}}}],"B":500,"C":500}</h3>
 </div>
