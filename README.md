@@ -10,4 +10,4 @@ harshavardhan1726/harshavardhan1726 is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=6B8A7A&height=300&section=header&text=Hi%20Everyone!%20&fontSize=90&fontColor=31363F&stroke=F6F1F1&strokeWidth=1.5" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=6B8A7A&height=300&section=header&text=Hi%20Everyone!,%20I'm%20Harsha%20Vardhan&fontSize=90&fontColor=31363F&stroke=F6F1F1&strokeWidth=1.5" />
