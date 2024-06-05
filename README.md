@@ -11,5 +11,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div>
-    <h3 style="font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; font-size: large;" >Hi There, I'm Harsha Vardhan <img src="/hello.gif" height="40px" alt=""> </h3>
+    <h3 style="font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; font-size: large;" >Hi There, I'm Harsha Vardhan <img src="/hello.gif" height="60px" alt=""> </h3>
 </div>
