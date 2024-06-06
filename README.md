@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 <div>
         <img align='right' src="/images/coding.gif" width="400px">
 </div>
- <div>
+ <div style="display: flex;">
         <h3>About Me: </h3>
         <img src="/images/Hand_wave.gif" width="20px" alt=""> Hey, I'm Harsha Vardhan! Exploring MERN stack dev</img>
         <br><br>
@@ -34,6 +34,6 @@ You can click the Preview link to take a look at your changes.
         <img src="/images/puzzle.gif" width="25px" alt=""> Eager learner, seeking projects & resources.
     </div>
     <hr>
-    
+
     
 </div>
