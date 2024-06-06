@@ -20,6 +20,9 @@ You can click the Preview link to take a look at your changes.
 ![GitHub](https://img.shields.io/github/followers/harshavardhan1726)
 
 <div style="display: flex;">
+<div>
+        <img align='right' src="/images/coding.gif" width="230">
+</div>
  <div>
         ### About Me:
         <img src="/images/Hand_wave.gif" width="20px" alt=""> Hey, I'm Harsha Vardhan! Exploring MERN stack dev</img>
@@ -30,7 +33,5 @@ You can click the Preview link to take a look at your changes.
         <br>
         <img src="/images/puzzle.gif" width="25px" alt=""> Eager learner, seeking projects & resources.
     </div>
-    <div>
-        <img align='right' src="/images/coding.gif" width="230">
-    </div>
+    
 </div>
