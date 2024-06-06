@@ -9,7 +9,20 @@
 harshavardhan1726/harshavardhan1726 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<!DOCTYPE html>
+<html lang="en">
 
-<div>
-    <h3>Hi There, I'm Harsha Vardhan <img src="/hello.gif" height="60px" alt=""> </h3>
-</div>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body ">
+    <div style="text-align: center;">
+        <h3>Hi there, I'm <span style="color: #FFF5E0;">Harsha Vardhan</span> <img src="/hello.gif" height="60px" alt=""> </h3>
+    </div>
+    <hr>
+</body>
+
+</html>
