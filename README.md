@@ -19,9 +19,9 @@ You can click the Preview link to take a look at your changes.
 [![Linkedin: harsha](https://img.shields.io/badge/-harsha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sai-harsha-vardhan-lagudu-31316a30a)](https://www.linkedin.com/in/sai-harsha-vardhan-lagudu-31316a30a)
 ![GitHub](https://img.shields.io/github/followers/harshavardhan1726)
 
-<div style="display: flex;">
 <div>
-        <img align='right' src="/images/coding.gif" width="300px">
+<div>
+        <img align='right' src="/images/coding.gif" width="400px">
 </div>
  <div>
         <h3>About Me: </h3>
