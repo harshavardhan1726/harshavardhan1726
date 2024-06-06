@@ -19,13 +19,24 @@ You can click the Preview link to take a look at your changes.
 [![Linkedin: harsha](https://img.shields.io/badge/-harsha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sai-harsha-vardhan-lagudu-31316a30a)](https://www.linkedin.com/in/sai-harsha-vardhan-lagudu-31316a30a)
 ![GitHub](https://img.shields.io/github/followers/harshavardhan1726)
 
-<img src="/images/Hand_wave.gif" width="20px" alt="">Hey, I'm Harsha Vardhan! Exploring MERN stack dev.
+<div>
+    <div style="float: left; width: 50%">
+        <img src="/images/Hand_wave.gif" width="20px" alt=""> Hey, I'm Harsha Vardhan! Exploring MERN stack dev.
 
-🌱 Learning MongoDB, Express.js, React.js, Node.js.
+        <br>
 
-💻 Goal: Master web app development.
+        <img src="/images/Learn.gif" width="25px" alt=""> Learning MongoDB, Express.js, React.js, Node.js.
 
-📚 Eager learner, seeking projects & resources.
+        <br>
 
-🤝 Let's connect & grow together!
-📫 Reach out—I'm all ears!
+        <img src="/images/goal.gif" width="25px" alt=""> Goal: Master web app development.
+
+        <br>
+
+        <img src="/images/puzzle.gif" width="25px" alt=""> Eager learner, seeking projects & resources.
+
+    </div>
+    <div style="float: right; width: 50%">
+    <img src="/images/coding.gif" alt="">
+    </div>
+</div>
