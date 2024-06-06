@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 <div>
     <div>
-        <img align='right' src="/images/coding.gif" width="400px">
+        <img align='right' src="/images/coding.gif" padding ="0 0 0 5px" width="400px">
     </div>
     <div style="display: flex;">
         <h3>About Me: </h3>
