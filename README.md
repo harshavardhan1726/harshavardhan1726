@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<h3>Hi There, I'm Harsha Vardhan <img src="/images/hello.gif" height="60px" alt=""> </h3>
+<h2>Hi There, I'm Harsha Vardhan <img src="/images/hello.gif" height="60px" alt=""> </h2>
 </div>
 <hr>
 
@@ -21,10 +21,10 @@ You can click the Preview link to take a look at your changes.
 
 <div style="display: flex;">
 <div>
-        <img align='right' src="/images/coding.gif" width="230">
+        <img align='right' src="/images/coding.gif">
 </div>
  <div>
-        ### About Me:
+        <h3>About Me: </h3>
         <img src="/images/Hand_wave.gif" width="20px" alt=""> Hey, I'm Harsha Vardhan! Exploring MERN stack dev</img>
         <br>
         <img src="/images/Learn.gif" width="25px" alt=""> Learning MongoDB, Express.js, React.js, Node.js. </img>
