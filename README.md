@@ -21,6 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 <div style="display: flex;">
  <div>
+        ### About Me:
         <img src="/images/Hand_wave.gif" width="20px" alt=""> Hey, I'm Harsha Vardhan! Exploring MERN stack dev</img>
         <br>
         <img src="/images/Learn.gif" width="25px" alt=""> Learning MongoDB, Express.js, React.js, Node.js. </img>
@@ -30,6 +31,6 @@ You can click the Preview link to take a look at your changes.
         <img src="/images/puzzle.gif" width="25px" alt=""> Eager learner, seeking projects & resources.
     </div>
     <div>
-        <img src="/images/coding.gif" alt="">
+        <img align='right' src="/images/coding.gif" width="230">
     </div>
 </div>
