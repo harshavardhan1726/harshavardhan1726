@@ -26,11 +26,11 @@ You can click the Preview link to take a look at your changes.
  <div>
         <h3>About Me: </h3>
         <img src="/images/Hand_wave.gif" width="20px" alt=""> Hey, I'm Harsha Vardhan! Exploring MERN stack dev</img>
-        <br>
+        <br><br>
         <img src="/images/Learn.gif" width="25px" alt=""> Learning MongoDB, Express.js, React.js, Node.js. </img>
-        <br>
+        <br><br>
         <img src="/images/goal.gif" width="25px" alt=""> Goal: Master web app development.
-        <br>
+        <br><br>
         <img src="/images/puzzle.gif" width="25px" alt=""> Eager learner, seeking projects & resources.
     </div>
     
