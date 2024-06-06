@@ -20,23 +20,15 @@ You can click the Preview link to take a look at your changes.
 ![GitHub](https://img.shields.io/github/followers/harshavardhan1726)
 
 <div>
-    <div style="float: left; width: 50%">
-        <img src="/images/Hand_wave.gif" width="20px" alt=""> Hey, I'm Harsha Vardhan! Exploring MERN stack dev.
-
+ <div style="float: left; width: 50%">
+        <img src="/images/Hand_wave.gif" width="20px" alt=""> Hey, I'm Harsha Vardhan! Exploring MERN stack dev</img>
+        <img src="/images/Learn.gif" width="25px" alt=""> Learning MongoDB, Express.js, React.js, Node.js. </img>
         <br>
-
-        <img src="/images/Learn.gif" width="25px" alt=""> Learning MongoDB, Express.js, React.js, Node.js.
-
-        <br>
-
         <img src="/images/goal.gif" width="25px" alt=""> Goal: Master web app development.
-
         <br>
-
         <img src="/images/puzzle.gif" width="25px" alt=""> Eager learner, seeking projects & resources.
-
     </div>
     <div style="float: right; width: 50%">
-    <img src="/images/coding.gif" alt="">
+        <img src="/images/coding.gif" alt="">
     </div>
 </div>
