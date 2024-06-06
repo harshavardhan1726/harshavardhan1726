@@ -10,6 +10,11 @@ harshavardhan1726/harshavardhan1726 is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 
-<div>
+<div style="text-align: center;">
 <h3>Hi There, I'm Harsha Vardhan <img src="/hello.gif" height="60px" alt=""> </h3>
 </div>
+<hr>
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
+[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol098/)
+![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
