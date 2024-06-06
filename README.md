@@ -20,8 +20,8 @@ You can click the Preview link to take a look at your changes.
 ![GitHub](https://img.shields.io/github/followers/harshavardhan1726)
 
 <div>
-    <div>
-        <img align='right' src="/images/coding.gif" padding ="0 0 0 15px" width="400px">
+    <div style="padding = 0 0 0 15px;">
+        <img align='right' src="/images/coding.gif"  width="400px">
     </div>
     <div>
         <h3>About Me: </h3>
