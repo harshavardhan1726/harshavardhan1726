@@ -11,10 +11,34 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<h3>Hi There, I'm Harsha Vardhan <img src="/hello.gif" height="60px" alt=""> </h3>
+<h3>Hi There, I'm Harsha Vardhan <img src="/images/hello.gif" height="60px" alt=""> </h3>
 </div>
 <hr>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/HarshaV172604?label=Follow)](https://twitter.com/intent/follow?screen_name=HarshaV172604)
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/HarshaV172604?label=Follow)](https://twitter.com/intent/follow?screen_name=HarshaV172604)
 [![Linkedin: harsha](https://img.shields.io/badge/-harsha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sai-harsha-vardhan-lagudu-31316a30a)](https://www.linkedin.com/in/sai-harsha-vardhan-lagudu-31316a30a)
-![GitHub](https://img.shields.io/github/followers/harshavardhan1726)
+![GitHub](https://img.shields.io/github/followers/harshavardhan1726) -->
+
+<img src="/images/Hand_wave.gif" width="20px" alt="">Hey, I'm Harsha Vardhan! Exploring MERN stack dev.
+
+<br>
+
+🌱 Learning MongoDB, Express.js, React.js, Node.js.
+
+<br>
+
+💻 Goal: Master web app development.
+
+<br>
+
+📚 Eager learner, seeking projects & resources.
+
+<br>
+
+🤝 Let's connect & grow together!
+
+<br>
+
+📫 Reach out—I'm all ears!
+
+<br>
