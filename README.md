@@ -15,6 +15,6 @@ You can click the Preview link to take a look at your changes.
 </div>
 <hr>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/sai-harsha-vardhan-lagudu-31316a30a?label=Follow)](https://twitter.com/intent/follow?screen_name=sai-harsha-vardhan-lagudu-31316a30a)
-[![Linkedin: harsha](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://x.com/HarshaV172604/)](https://x.com/HarshaV172604)
+[![Twitter Follow](https://img.shields.io/twitter/follow/HarshaV172604?label=Follow)](https://twitter.com/intent/follow?screen_name=HarshaV172604)
+[![Linkedin: harsha](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sai-harsha-vardhan-lagudu-31316a30a)](https://www.linkedin.com/in/sai-harsha-vardhan-lagudu-31316a30a)
 ![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
