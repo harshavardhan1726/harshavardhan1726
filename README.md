@@ -10,7 +10,6 @@ harshavardhan1726/harshavardhan1726 is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 
-
-        <h3>Hi there, I'm <span style="color: #FFF5E0;">Harsha Vardhan</span> <img src="/hello.gif" height="60px" alt=""> </h3>
-   
-    <hr>
+<div>
+<h3>Hi There, I'm Harsha Vardhan <img src="/hello.gif" height="60px" alt=""> </h3>
+</div>
