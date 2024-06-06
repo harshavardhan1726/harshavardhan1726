@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
     <div>
         <img align='right' src="/images/coding.gif" padding ="0 0 0 15px" width="400px">
     </div>
-    <div style="display: flex;">
+    <div>
         <h3>About Me: </h3>
         <img src="/images/Hand_wave.gif" width="20px" alt=""> Hey there! I'm a passionate learner and aspiring developer.</img>
         <br><br>
