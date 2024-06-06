@@ -17,4 +17,4 @@ You can click the Preview link to take a look at your changes.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/HarshaV172604?label=Follow)](https://twitter.com/intent/follow?screen_name=HarshaV172604)
 [![Linkedin: harsha](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sai-harsha-vardhan-lagudu-31316a30a)](https://www.linkedin.com/in/sai-harsha-vardhan-lagudu-31316a30a)
-![GitHub followers](https://img.shields.io/github/followers/harshavardhan1726?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/harshavardhan1726)
