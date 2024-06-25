@@ -13,7 +13,6 @@ You can click the Preview link to take a look at your changes.
 
 <h2>Hi There, I'm Harsha Vardhan <img src="/images/hello.gif" height="60px" alt=""> </h2>
 </div>
-<hr>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/HarshaV172604?label=Follow)](https://twitter.com/intent/follow?screen_name=HarshaV172604)
 [![Linkedin: harsha](https://img.shields.io/badge/-harsha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sai-harsha-vardhan-lagudu-31316a30a)](https://www.linkedin.com/in/sai-harsha-vardhan-lagudu-31316a30a)
