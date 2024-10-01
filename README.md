@@ -15,15 +15,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/saiharshavardhanlagudu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="saiharshavardhanlagudu" height="30" width="40" /></a>
+<a href="https://dev.to/@saiharshavardhanlagudu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="saiharshavardhanlagudu" height="30" width="40" /></a>
 <a href="https://twitter.com/harshav172604" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshav172604" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sai-harsha-vardhan-lagudu-31316a30a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai-harsha-vardhan-lagudu-31316a30a" height="30" width="40" /></a>
 <a href="https://kaggle.com/harshavardhan1702" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="harshavardhan1702" height="30" width="40" /></a>
 <a href="https://instagram.com/harsha.v_vardhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harsha.v_vardhan" height="30" width="40" /></a>
-<a href="https://hashnode.com/harsha1702" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="harsha1702" height="30" width="40" /></a>
+<a href="https://hashnode.com/@harsha1702" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="harsha1702" height="30" width="40" /></a>
 <a href="https://medium.com/@harshav1752002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@harshav1752002" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ql8ennd30e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ql8ennd30e" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/user/saipawaykij/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/saipawaykij/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/saipawaykij/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/saipawaykij/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
