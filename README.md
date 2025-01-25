@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **harshav1752002@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3> -->
 <!-- <p align="left">
 <a href="https://dev.to/harshavardhan1702" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="harshavardhan1702" height="30" width="40" /></a>
 <a href="https://twitter.com/harshav172604" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshav172604" height="30" width="40" /></a>
